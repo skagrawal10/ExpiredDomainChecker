@@ -1,0 +1,5 @@
+host=localhost
+database=exploitdb
+username=postgres
+password=mathura
+port=5432

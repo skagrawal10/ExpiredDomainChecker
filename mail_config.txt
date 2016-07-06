@@ -1,0 +1,9 @@
+host=localhost
+database=exploitdb
+username=postgres
+dbpassword=mathura
+port=5432
+deleteMail=N
+Folder=INBOX
+email=testpythonheader@gmail.com
+password=hackgoogle

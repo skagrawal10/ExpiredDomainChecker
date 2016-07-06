@@ -1,0 +1,9 @@
+EDB-ID, CVE, OSVDB-ID: VERIFIED AUTHOR PUBLISHED
+
+ create table exploit_detail (
+ EDBID varchar(80),
+ CVE varchar(80),
+ OSVDBID varchar(80),
+ VERIFIED int,
+ AUTHOR varchar(80),
+ PUBLISHED date);
